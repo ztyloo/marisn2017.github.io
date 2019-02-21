@@ -14,4 +14,4 @@
 
 > iOS
 
-- [Shadowrocket](https://ios.xfgss.com/)
+- [Shadowrocket](https://jingyan.baidu.com/article/63acb44a1e1b8661fcc17e3c.html)
