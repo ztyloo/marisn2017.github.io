@@ -1,5 +1,5 @@
-- 开始使用
-  - [Windows](/windows)
-  - [Android](/android)
-  - [macOS](/mac)
-  - [iOS](/ios)
+* [开始使用](/)
+* [Windows](/windows)
+* [Android](/android)
+* [macOS](/mac)
+* [iOS](/ios)
