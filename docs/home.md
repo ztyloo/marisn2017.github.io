@@ -2,15 +2,19 @@
 
 > Windows
 
-- [SSTap-beta-setup-1.0.9.7](https://files.re/windows/SSTap-beta-setup-1.0.9.7.zip)
+- [SSTap-beta-setup-1.0.9.7](/download/ssr-win.7z)
+
+> Windows Game
+
+- [SSRR_3.5.1.1](/download/SSTap.7z)
 
 > Android
 
-- [SSRR_3.5.1.1](https://files.re/android/SSRR_3.5.1.1.apk)
+- [SSRR_3.5.1.1](/download/ssr-android.apk)
 
 > macOS
 
-- [ShadowsocksX](https://files.re/macOS/ShadowsocksX-NG-R8.dmg)
+- [ShadowsocksX](/download/ssr-mac.dmg)
 
 > iOS
 
