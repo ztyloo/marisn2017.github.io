@@ -2,19 +2,19 @@
 
 > Windows
 
-- [SSR-win](download/ssr-win.7z)
+- [SSR-win](https://wiki.sybk.tw/docs/download/ssr-win.7z)
 
 > Windows Game
 
-- [SSTap](download/SSTap.7z)
+- [SSTap](https://wiki.sybk.tw/docs/download/SSTap.7z)
 
 > Android
 
-- [SSR-android](download/ssr-android.apk)
+- [SSR-android](https://wiki.sybk.tw/docs/download/ssr-android.apk)
 
 > macOS
 
-- [SSR-mac](download/ssr-mac.dmg)
+- [SSR-mac](https://wiki.sybk.tw/docs/download/ssr-mac.dmg)
 
 > iOS
 
