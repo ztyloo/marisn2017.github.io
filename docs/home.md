@@ -2,19 +2,19 @@
 
 > Windows
 
-- [SSR-win](/download/ssr-win.7z)
+- [SSR-win](../download/ssr-win.7z)
 
 > Windows Game
 
-- [SSTap](/download/SSTap.7z)
+- [SSTap](../download/SSTap.7z)
 
 > Android
 
-- [SSR-android](/download/ssr-android.apk)
+- [SSR-android](../download/ssr-android.apk)
 
 > macOS
 
-- [SSR-mac](/download/ssr-mac.dmg)
+- [SSR-mac](../download/ssr-mac.dmg)
 
 > iOS
 
