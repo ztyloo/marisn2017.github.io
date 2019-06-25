@@ -1,5 +1,6 @@
 * [开始使用](/)
 * [Windows](/windows)
+* [Windows Game](/windows_game)
 * [Android](/android)
 * [macOS](/mac)
 * [iOS](/ios)

@@ -1,25 +1,32 @@
 # Windows
 
-> 1.安装完成后，打开 SSTap，点击 「设置」-「SSR订阅」-「SSR订阅管理...」；
+> 1.首页下载软件，解压客户端，双击shadowsocksr4.0的客户端(打不开就用2.0，2.0打不开请下载安装net.framework3.0，还打不开麻烦升级到win7)；
 
-![win-01](/images/windows/win-01.png)
-
-> 2.在网站用户中心里，复制节点订阅链接；
-
-![win-02](/images/windows/win-02.png)
-
-> 3.粘贴节点订阅链接至「URL」中，点击「添加」，然后关闭返回到主界面；
-
-![win-02](/images/windows/win-03.png)
-
-> 4.选择一个延迟较低的节点；
-
-![win-04](/images/windows/win-04.png)
-
-> 5.「模式」一般选择「仅网页浏览器（跳过中国站点）」，适合日常上网，如不能使用，则切换「全局」即可；
-
-![win-05](/images/windows/win-05.png)
-
-> 6.最后点击「连接」即可科学上网。
-
-![win-06](/images/windows/win-06.png)
+ <ul>
+	<li>
+		解压客户端，双击shadowsocksr4.0的客户端(打不开就用2.0，2.0打不开请下载安装net.framework3.0，还打不开麻烦升级到win7)
+	</li>
+	<li>方法一：</li>
+	<ol>
+		<li>在快速添加节点中找到【备用节点导入方法】</li>
+		<li>点击其中的链接</li>
+		<p><img src="/images/c_win_2.png"/></p>
+		<li>找到系统托盘菜单中的SSR纸飞机图标右键调出菜单</li>
+		<li>点击剪贴板批量导入ssr://链接</li>
+		<p><img src="/images/c_win_3.png"/></p>
+	</ol>
+	<li>方法二(推荐)：</li>
+	<ol>
+		<li>在快速添加节点中找到节点订阅地址</li>
+		<li>点击按钮复制订阅链接</li>
+		<p><img src="/images/c_win_4.png"/></p>
+		<li>找到系统托盘菜单中的SSR纸飞机图标右键调出菜单</li>
+		<li>打开SSR服务器订阅链接设置</li>
+		<p><img src="/images/c_win_5.png"/></p>
+		<li>点击add添加一个订阅，将复制的链接填入右侧框内点击确定</li>
+		<p><img src="/images/c_win_6.png"/></p>
+		<li>找到系统托盘菜单中的SSR纸飞机图标右键调出菜单</li>
+		<li>点击更新SSR服务器订阅(不通过代理)</li>
+		<p><img src="/images/c_win_7.png"/></p>
+	</ol>
+</ul>
