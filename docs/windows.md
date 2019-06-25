@@ -28,4 +28,4 @@
 
 ![c_win_8](/images/windows/c_win_8.png)
 
-> 10. 打开浏览器输入www.google.com试试吧！
+> 10. 打开浏览器输入 www.google.com 试试吧！
