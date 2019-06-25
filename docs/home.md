@@ -12,7 +12,7 @@
 
 - [SSTap](https://github.com/marisn2017/marisn2017.github.io/releases/download/V1.0/SSTap.zip)
 
-> Windows Game[1.0.9.1可全局，请勿更新]
+> Windows Game[1.0.9.7可全局，请勿更新]
 
 - [SSTap](https://github.com/marisn2017/marisn2017.github.io/releases/download/V1.0/Sstap1.0.9.1.7z)
 
